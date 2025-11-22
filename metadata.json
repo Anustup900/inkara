@@ -1,0 +1,7 @@
+{
+  "name": "Inkara",
+  "description": "Visualize tattoos on your body using AI. Upload a photo and a tattoo design to see a realistic preview.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
